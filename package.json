@@ -1,0 +1,27 @@
+{
+  "name": "schema",
+  "version": "1.0.0",
+  "description": "Schemas for Tender project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cemtopkaya/tender-schema"
+  },
+  "keywords": [
+    "Tender",
+    "JSON",
+    "Schema"
+  ],
+  "author": "Cem Topkaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cemtopkaya/tender-schema/issues"
+  },
+  "homepage": "https://github.com/cemtopkaya/tender-schema"
+}

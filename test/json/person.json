@@ -1,0 +1,8 @@
+{
+  "type": "object",
+
+  "properties": {
+    "billing_address": { "$ref": "def_address.json#/definitions/address" },
+    "shipping_address": { "$ref": "def_address.json#/definitions/address" }
+  }
+}
